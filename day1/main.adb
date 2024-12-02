@@ -1,16 +1,15 @@
 -- BTW: I'm too lazy to figure out compiling/running programs locally, so unless 
--- it doesn't exist, I will be using online compilers to run my solution
+-- it doesn't exist, I will be using online compilers to run my solution. 
+-- I used this: https://onecompiler.com/ada
 
 -- Some parts of Ada is kinda interesting, there's some influence from 
--- functional programs in the sense that defining types is super easy
--- and I can see why its useful (making typed restrictions is super simple, 
--- literally just 1 .. 100) and that functions *shouldn't* have side-effects
+-- functional programs: defining types is super easy + typed restrictions
+-- is pretty cool; pure functions are encouraged.
+
 -- Overall though, I don't really like writing code in Ada. Defining 
 -- variables, and the overall structure of the program doesn't free super 
--- natural (functions / procedures). Maybe if I wrote more code I would like 
--- it more though, not sure. 
-
--- https://onecompiler.com/ada
+-- natural (functions / procedures) - a lot of it seems overly verbose. 
+-- Maybe if I wrote more code I would like it more though, not sure. 
 
 with Ada.Text_IO;          use Ada.Text_IO;
 with Ada.Integer_Text_IO;  use Ada.Integer_Text_IO;
