@@ -1,4 +1,4 @@
-### aoc24-alphabet
+# aoc24-alphabet
 
 _solving Advent of Code 2024 with 25 languages, in alphabetical order._ [^1]
 
@@ -32,6 +32,6 @@ might change the languages if the problem is too hard to write
 24. `Y` is for **Yuescript** — _a moonscript dialect that compiles to lua_ (might skip)
 25. `Z` is for **Zig** — _general-purpose systems, without garbage collection_
 
-[^1] inspired by [Eric Zhang](https://github.com/ekzhang/aoc23-alpha)
+[^1]: inspired by [Eric Zhang's Advent of Code Challenge](https://github.com/ekzhang/aoc23-alpha)
 
 
